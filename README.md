@@ -63,7 +63,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![Command Line](./assets/images/command_line.png)
 
 ## Video
-A link to the [Video](https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j):
+video()
 ```
-https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
-```
+
+Creator: Patric Xiong
